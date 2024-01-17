@@ -17,7 +17,7 @@ https://hub.docker.com/repository/docker/svjashennik/lab3_1
 
 ![img_3.png](img_3.png)
 
-6) curl -s 10.103.217.134:8080
+6) curl -s 10.106.169.35:8080
 
 Задание 2
 
